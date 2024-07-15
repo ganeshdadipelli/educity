@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    color: #212EA0;
+    text-transform: uppercase;
+    /* text-transform: uppercase:    LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. */
+margin: 70px 0 30px;
+/* from top ,left and right , bottom*/
+
+}
+.title h2{
+    font-size: 32px;
+    color: #000f38;
+    margin-top: 5px;
+    text-transform: none;
+}
